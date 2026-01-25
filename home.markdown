@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: Home
-permalink: /home/
+permalink: /home
 ---
 
 ## Glenn McCrea
