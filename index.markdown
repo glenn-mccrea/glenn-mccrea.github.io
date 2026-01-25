@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Home
+title: Glenn McCrea
 permalink: /
 ---
-
-## Glenn McCrea
 
 ![Mountain Forest](/assets/image.jpg)
 
@@ -12,6 +10,7 @@ As a motivated software development student from Launchcode’s Software Develop
 
 **Career Objective:** Seeking opportunities in Software Engineering where I can leverage my technical skills and creativity to solve real-world problems.
 
+<hr>
 <hr>
 
 ## Resume & Achievements
@@ -24,6 +23,7 @@ As a motivated software development student from Launchcode’s Software Develop
 
 **Achievements:**
 
+<hr>
 <hr>
 
 ## Projects
@@ -42,10 +42,11 @@ Built Using REACT.js
 - [Live Demo](https://homeschool-day-tracker.netlify.app/)
 
 <hr>
+<hr>
 
 ## Contact
 
 **Get in Touch:**
 
-- **LinkedIn:** [https://www.linkedin.com/in/glennmccrea/]
-- **GitHub:** [https://github.com/glenn-mccrea]
+- **LinkedIn:** [Glenn McCrea](https://www.linkedin.com/in/glennmccrea/)
+- **GitHub:** [Glenn-McCrea](https://github.com/glenn-mccrea)
